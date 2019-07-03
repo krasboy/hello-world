@@ -1,2 +1,2 @@
-# hello-world
-Study
+#hello-world 
+I learh Python
